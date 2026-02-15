@@ -81,13 +81,21 @@ This assignment demonstrates a comprehensive, hands-on implementation of **Oracl
 
 ---
 
-## 🚀 Getting Started
+## ✅ Final Submission Checklist
 
-To replicate this assignment:
-1. Ensure Oracle Database 12c+ with multitenant option is installed
-2. Follow the SQL commands documented in the technical report
-3. Configure EM Express on your CDB
-4. Practice PDB creation, management, and removal procedures
+- ✅ Correct PDB names used  
+- ✅ User created inside the PDB  
+- ✅ Temporary PDB created and deleted  
+- ✅ OEM dashboard screenshot included  
+- ✅ GitHub repository is PUBLIC  
+- ✅ README is clear and professional  
+- ✅ Deadline respected  
+
+---
+
+✔ All requirements have been completed and verified before submission.
+
+
 
 ---
 
@@ -99,7 +107,7 @@ To replicate this assignment:
 
 ---
 
-**Assignment:** Oracle PDB Management II  
-**Course ID:** 27442  
-**Student:** Michael (@hirwamike)  
+**Assignment:**  Oracle Pluggable Database Management & Enterprise Manager
+**Student ID:** 27442  
+**Student:** Hirwa Michael  
 **Date:** 14/02/2026
