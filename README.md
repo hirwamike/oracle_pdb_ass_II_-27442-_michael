@@ -23,8 +23,12 @@ This assignment demonstrates a comprehensive, hands-on implementation of **Oracl
 - Demonstrated understanding of PDB architecture and initialization parameters
 
 <img width="575" height="203" alt="PDB Creation Example" src="https://github.com/user-attachments/assets/fcaf6b97-1bd0-48f3-ab0f-1713927f3ae9" />
+**Create a user in the Pluggable Database**
 
----
+<img width="346" height="86" alt="9" src="https://github.com/user-attachments/assets/2459a05a-6a6f-4c65-bf0c-37adfd9f0dcd" />
+
+---<img width="388" height="55" alt="10" src="https://github.com/user-attachments/assets/967618b8-64ff-4b44-9839-16d45e3ec8be" />
+
 
 ### 2️⃣ **PDB Management Operations**
 **Objective:** Execute essential PDB lifecycle operations including creation, opening, closing, and removal
